@@ -1,5 +1,5 @@
 import "./Installation.css"
-import breathing from "./Breathing.mp4"
+import breathing from "./Breathing.webm"
 
 const Installation = () => {
     return ( <>

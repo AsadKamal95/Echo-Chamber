@@ -1,6 +1,6 @@
 import "./HeroSection.css"
 import { useEffect, useState } from "react";
-import final_cosmos from "./cosmos.mp4"
+import final_cosmos from "./cosmos_2.webm"
 
 const HeroSection = () => {
 

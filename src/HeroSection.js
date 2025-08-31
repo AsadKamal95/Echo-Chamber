@@ -45,7 +45,7 @@ const HeroSection = () => {
 
     return ( <>
         <div className="container">
-            <video src={final_cosmos} autoPlay loop muted style={{ opacity }}/>
+            <video src={final_cosmos} autoPlay loop muted playsInline controls={false} style={{ opacity }}/>
             <button id="ScrollToBottom" onClick={scrollToBottom}>↓</button>
             <div className="content">
                 <p>Echo <br></br> Chamber</p>

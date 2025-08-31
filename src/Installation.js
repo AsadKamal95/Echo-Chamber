@@ -28,7 +28,7 @@ const Installation = () => {
                     </p>    
                 </div>
                 <div className="right">
-                    <video src={breathing} autoPlay loop muted style={{ opacity:"0.5" }}/>
+                    <video src={breathing} autoPlay loop muted playsInline controls={false} style={{ opacity:"0.5" }}/>
                 </div>
                 
             </div>

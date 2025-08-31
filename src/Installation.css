@@ -1,0 +1,49 @@
+.Installation-container{
+    /* background-color: rgb(30, 48, 63); */
+    padding: 20vh 0vh;
+    padding-bottom: 0;
+}
+.Installation-container .Installation-content{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.Installation-container .Installation-content .left{
+    width: 38%;
+    font-size: 2.2vh;
+    line-height: 3vh;
+    letter-spacing: 5%;
+    margin-left: 7%;
+    text-align: justify;
+}
+
+.Installation-container .Installation-content .right{
+    width: 45vw;
+    height: 110vh;
+    margin-right: 5%;
+}
+
+
+@media screen and (min-width:350px) and (max-width:900px){
+    .Installation-container .Installation-content{
+        margin-top: 25%;
+        flex-direction: column;
+    }
+    .Installation-container .Installation-content .left{
+        font-size: 1.8vh;
+        width: 75%;
+        text-align:start;
+    }
+    .Installation-container .Installation-content .right{
+        width: 75vw;
+        height: 50vh;
+        margin-right: 0%;
+    }
+    .Installation-container .Installation-content .right video{
+        object-fit: cover;
+    }
+}

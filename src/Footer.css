@@ -201,6 +201,7 @@
         order: 2;
         margin-bottom: 0%;
         margin-top: 40%;
+        align-items: center;
     }
     .footer-container .footer-content .top .left p:nth-of-type(1){
         font-size: 4vh;
@@ -209,6 +210,9 @@
         width: 60vw;
         margin: 4% 0;
         font-size: 2vh;
+    }
+    .footer-container .footer-content .top .left .contact{
+        width: 80%;
     }
     .footer-container .footer-content .top .left .contact button{
         font-size: 2vh;

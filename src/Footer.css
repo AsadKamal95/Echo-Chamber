@@ -214,6 +214,7 @@
     }
     .footer-container .footer-content .top .left .contact{
         width: 80%;
+        justify-content: center;
     }
     .footer-container .footer-content .top .left .contact button{
         font-size: 2vh;

@@ -207,9 +207,10 @@
         font-size: 4vh;
     }
     .footer-container .footer-content .top .left p:nth-of-type(2){
-        width: 60vw;
+        width: 62vw;
         margin: 4% 0;
         font-size: 2vh;
+        text-align: center;
     }
     .footer-container .footer-content .top .left .contact{
         width: 80%;

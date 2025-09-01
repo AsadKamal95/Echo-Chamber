@@ -35,7 +35,7 @@ const DevelopmentJourney = () => {
                         <div className="right">
                             <p>Painting with Light and Motion</p>
                             <p>Visual Development and Animation</p>
-                            <p>Crafting dynamic shyscapes and breathing visuals to create an immersive, meditative environment.</p>
+                            <p>Crafting dynamic skyscapes and breathing visuals to create an immersive, meditative environment.</p>
                         </div>
                     </div>
                     <div className="point">

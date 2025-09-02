@@ -13,7 +13,8 @@ const Footer = () => {
         window.location.href = "mailto:echochambertheexperience@gmail.com"
     }
     const goToInstagram = () => {
-        window.open("https://www.instagram.com/echochambertheexperience?igsh=MTNwZXIwMHVhZXc4dQ%3D%3D&utm_source=qr", "_blank", "noopener,noreferrer")
+        
+        window.open("https://www.instagram.com/echo.chamber.the.experience?igsh=MTNwZXIwMHVhZXc4dQ%3D%3D&utm_source=qr", "_blank", "noopener,noreferrer")
     };
     const goToEcho = () => {
         window.open("https://medium.com/@ridakamaldesign", "_blank", "noopener,noreferrer")
